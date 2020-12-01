@@ -1,0 +1,17 @@
+
+.navbar-default{
+
+	background: blue;
+}
+
+.navbar-default .navbar-toggle{
+
+	position: relative;
+	background: blue;
+}
+.collapse navbar-collapse{
+background: blue;
+}
+.nav navbar-nav{
+color:red;
+}
